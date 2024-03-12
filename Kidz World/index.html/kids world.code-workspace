@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Save-Wildlife"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Kidz World"
+	}
+}
